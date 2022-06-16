@@ -1,0 +1,18 @@
+[
+  {
+    "package": "cvms",
+    "oncran": true
+  },
+  {
+    "package": "groupdata2",
+    "oncran": true
+  },
+  {
+    "package": "rearrr",
+    "oncran": true
+  },
+  {
+    "package": "xpectr",
+    "oncran": true
+  }
+]
