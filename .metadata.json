@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "groupdata2",
+    "oncran": true
+  },
+  {
     "package": "rearrr",
     "oncran": true
   },
