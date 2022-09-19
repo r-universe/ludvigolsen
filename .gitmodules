@@ -8,11 +8,6 @@
 	url = https://github.com/ludvigolsen/cvms
 	shallow = true
 	registered = true
-[submodule "groupdata2"]
-	path = groupdata2
-	url = https://github.com/ludvigolsen/groupdata2
-	shallow = true
-	registered = true
 [submodule "rearrr"]
 	path = rearrr
 	url = https://github.com/ludvigolsen/rearrr
