@@ -12,7 +12,6 @@
     "oncran": true
   },
   {
-    "package": "xpectr",
-    "oncran": true
+    "package": "xpectr"
   }
 ]
