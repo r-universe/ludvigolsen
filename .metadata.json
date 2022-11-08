@@ -10,8 +10,5 @@
   {
     "package": "rearrr",
     "oncran": true
-  },
-  {
-    "package": "xpectr"
   }
 ]
