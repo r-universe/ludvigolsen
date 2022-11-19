@@ -18,3 +18,8 @@
 	url = https://github.com/ludvigolsen/rearrr
 	shallow = true
 	registered = true
+[submodule "xpectr"]
+	path = xpectr
+	url = https://github.com/ludvigolsen/xpectr
+	shallow = true
+	registered = true
