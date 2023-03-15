@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "cvms"]
-	path = cvms
-	url = https://github.com/ludvigolsen/cvms
-	shallow = true
-	registered = true
 [submodule "groupdata2"]
 	path = groupdata2
 	url = https://github.com/ludvigolsen/groupdata2
+	shallow = true
+	registered = true
+[submodule "cvms"]
+	path = cvms
+	url = https://github.com/ludvigolsen/cvms
 	shallow = true
 	registered = true
 [submodule "rearrr"]
