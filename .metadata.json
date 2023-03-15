@@ -1,10 +1,10 @@
 [
   {
-    "package": "groupdata2",
+    "package": "cvms",
     "oncran": true
   },
   {
-    "package": "cvms",
+    "package": "groupdata2",
     "oncran": true
   },
   {
